@@ -600,20 +600,26 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-01-11 18:06:14 +0000",
+      "autumnal_maple_forest": "2025-01-30 22:10:29 +0000",
+      "muddy_river": "2025-01-30 22:12:23 +0000",
       "marsh": "2025-01-11 18:36:54 +0000",
       "willow_forest": "2025-01-10 23:25:31 +0000",
       "barley_fields": "2025-01-11 18:07:15 +0000",
       "redstone_caves": "2025-01-12 22:32:50 +0000",
       "grassy_beach": "2025-01-10 23:16:31 +0000",
       "rocky_meadow": "2025-01-10 22:44:00 +0000",
+      "maple_forest": "2025-01-30 22:08:02 +0000",
       "magnolia_highlands": "2025-01-11 18:05:02 +0000",
       "sparse_redwoods": "2025-01-11 18:34:41 +0000",
       "deciduous_forest": "2025-01-11 17:43:31 +0000",
       "towering_cliffs": "2025-01-10 23:27:13 +0000",
+      "chalk_cliffs": "2025-01-30 21:54:28 +0000",
       "bamboo_forest": "2025-01-10 22:21:02 +0000",
       "grassland": "2025-01-10 22:53:45 +0000",
       "prairie": "2025-01-11 18:06:46 +0000",
+      "gravel_beach": "2025-01-30 22:11:23 +0000",
       "redwoods": "2025-01-11 18:34:20 +0000",
+      "hyacinth_deeps": "2025-01-30 22:12:39 +0000",
       "bioshroom_caves": "2025-01-11 20:19:37 +0000"
     },
     "done": false
@@ -621,19 +627,25 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-01-11 18:06:14 +0000",
+      "autumnal_maple_forest": "2025-01-30 22:10:29 +0000",
+      "muddy_river": "2025-01-30 22:12:23 +0000",
       "marsh": "2025-01-11 18:36:54 +0000",
       "willow_forest": "2025-01-10 23:25:31 +0000",
       "barley_fields": "2025-01-11 18:07:15 +0000",
       "grassy_beach": "2025-01-10 23:16:31 +0000",
       "rocky_meadow": "2025-01-10 22:44:00 +0000",
+      "maple_forest": "2025-01-30 22:08:02 +0000",
       "magnolia_highlands": "2025-01-11 18:05:02 +0000",
       "sparse_redwoods": "2025-01-11 18:34:41 +0000",
       "deciduous_forest": "2025-01-11 17:43:31 +0000",
       "towering_cliffs": "2025-01-10 23:27:13 +0000",
+      "chalk_cliffs": "2025-01-30 21:54:28 +0000",
       "bamboo_forest": "2025-01-10 22:21:02 +0000",
       "grassland": "2025-01-10 22:53:45 +0000",
       "prairie": "2025-01-11 18:06:46 +0000",
-      "redwoods": "2025-01-11 18:34:20 +0000"
+      "gravel_beach": "2025-01-30 22:11:23 +0000",
+      "redwoods": "2025-01-11 18:34:20 +0000",
+      "hyacinth_deeps": "2025-01-30 22:12:39 +0000"
     },
     "done": false
   },
@@ -923,11 +935,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:windswept_hills": "2025-01-10 23:27:28 +0000",
+      "minecraft:bamboo_jungle": "2025-01-30 20:59:56 +0000",
       "minecraft:savanna_plateau": "2025-01-11 18:24:14 +0000",
       "minecraft:beach": "2025-01-10 23:16:25 +0000",
+      "minecraft:mangrove_swamp": "2025-01-30 20:59:01 +0000",
       "minecraft:sparse_jungle": "2025-01-11 18:11:00 +0000",
       "minecraft:river": "2025-01-10 22:43:50 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-30 21:14:00 +0000",
+      "minecraft:cold_ocean": "2025-01-30 22:03:55 +0000",
       "minecraft:forest": "2025-01-10 23:27:32 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-30 22:06:16 +0000",
+      "minecraft:frozen_ocean": "2025-01-30 22:12:55 +0000",
+      "minecraft:jungle": "2025-01-30 21:05:48 +0000",
+      "minecraft:ocean": "2025-01-30 22:03:33 +0000",
       "minecraft:windswept_savanna": "2025-01-10 23:56:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-10 23:46:08 +0000",
       "minecraft:savanna": "2025-01-10 23:11:42 +0000",
@@ -1157,7 +1177,9 @@
       "minecraft:skeleton": "2025-01-10 23:11:24 +0000",
       "minecraft:spider": "2025-01-10 23:17:15 +0000",
       "minecraft:slime": "2025-01-11 22:13:54 +0000",
+      "minecraft:phantom": "2025-01-30 22:33:44 +0000",
       "minecraft:witch": "2025-01-12 23:11:01 +0000",
+      "minecraft:husk": "2025-01-30 21:50:38 +0000",
       "minecraft:zombie": "2025-01-10 23:18:26 +0000",
       "minecraft:zombie_villager": "2025-01-11 20:10:34 +0000"
     },
@@ -1863,10 +1885,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-10 23:47:54 +0000",
+      "baked_potato": "2025-01-30 21:21:10 +0000",
       "porkchop": "2025-01-10 23:47:01 +0000",
       "apple": "2025-01-11 18:16:38 +0000",
+      "pumpkin_pie": "2025-01-30 21:55:20 +0000",
       "bread": "2025-01-10 23:19:18 +0000",
       "rotten_flesh": "2025-01-10 23:23:19 +0000",
+      "salmon": "2025-01-30 22:39:57 +0000",
+      "mushroom_stew": "2025-01-30 21:29:32 +0000",
       "cod": "2025-01-10 23:46:49 +0000",
       "carrot": "2025-01-11 00:34:35 +0000"
     },
@@ -12309,6 +12335,660 @@
   "soulsweapons:recipes/tools/moonstone_pickaxe": {
     "criteria": {
       "has_item": "2025-01-13 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-30 21:57:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-30 21:14:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-30 21:57:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-30 21:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-01-30 21:14:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_dark_oak_sign": "2025-01-30 21:52:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_smooth_sandstone": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-30 21:57:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-01-30 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-30 21:46:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_skin": "2025-01-30 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-01-30 21:16:06 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-30 21:45:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-30 21:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-01-30 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-01-30 21:28:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-30 21:14:30 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-01-30 22:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-01-30 21:50:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-01-30 22:54:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_skin": "2025-01-30 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:frostfall": {
+    "criteria": {
+      "requirement": "2025-01-30 22:17:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-30 21:29:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-01-30 21:46:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-30 21:14:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cookie": {
+    "criteria": {
+      "has_cookie": "2025-01-30 21:14:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-01-30 22:52:02 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-01-30 21:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-30 21:57:27 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-01-30 21:16:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-30 21:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-01-30 21:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-30 21:57:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-01-30 22:37:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-30 21:29:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-30 21:57:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/minecells/sign_post_putrid": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-01-30 21:50:01 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
+    "criteria": {
+      "has_plank": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-01-30 21:50:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-01-30 21:57:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
+    "criteria": {
+      "has_bowl": "2025-01-30 21:29:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-30 21:57:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-01-30 21:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-30 21:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-30 21:14:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-01-30 21:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-01-30 22:33:44 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-01-30 22:37:09 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-01-30 21:50:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2025-01-30 21:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-01-30 21:46:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-30 21:57:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-01-30 21:29:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-01-30 22:52:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-30 21:29:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-01-30 22:37:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-30 22:23:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-01-30 21:57:00 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-01-30 21:46:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-01-30 21:50:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-30 21:14:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2025-01-30 21:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-30 21:08:48 +0000"
     },
     "done": true
   },

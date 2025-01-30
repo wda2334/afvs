@@ -603,15 +603,18 @@
       "shrubland": "2025-01-10 23:21:56 +0000",
       "redstone_abyss": "2025-01-13 21:07:38 +0000",
       "muddy_river": "2025-01-11 00:09:57 +0000",
+      "autumnal_maple_forest": "2025-01-30 22:09:50 +0000",
       "prismachasm": "2025-01-11 21:08:01 +0000",
       "ancient_delta": "2025-01-12 20:10:49 +0000",
       "marsh": "2025-01-11 18:36:55 +0000",
+      "willow_forest": "2025-01-30 22:00:05 +0000",
       "barley_fields": "2025-01-11 18:07:11 +0000",
       "redstone_caves": "2025-01-11 21:08:04 +0000",
       "grassy_beach": "2025-01-11 00:23:34 +0000",
       "rocky_meadow": "2025-01-10 22:23:29 +0000",
       "mycotoxic_undergrowth": "2025-01-13 21:17:25 +0000",
       "ochard": "2025-01-10 23:30:22 +0000",
+      "highland_fields": "2025-01-30 22:00:37 +0000",
       "maple_forest": "2025-01-11 00:09:32 +0000",
       "magnolia_highlands": "2025-01-10 23:03:08 +0000",
       "sparse_redwoods": "2025-01-11 18:35:24 +0000",
@@ -625,6 +628,7 @@
       "prairie": "2025-01-11 18:03:28 +0000",
       "gravel_beach": "2025-01-11 00:10:15 +0000",
       "redwoods": "2025-01-11 18:34:31 +0000",
+      "hyacinth_deeps": "2025-01-30 22:12:47 +0000",
       "bioshroom_caves": "2025-01-11 20:47:17 +0000"
     },
     "done": false
@@ -634,11 +638,14 @@
       "mauve_hills": "2025-01-11 18:06:21 +0000",
       "shrubland": "2025-01-10 23:21:56 +0000",
       "muddy_river": "2025-01-11 00:09:57 +0000",
+      "autumnal_maple_forest": "2025-01-30 22:09:50 +0000",
       "marsh": "2025-01-11 18:36:55 +0000",
+      "willow_forest": "2025-01-30 22:00:05 +0000",
       "barley_fields": "2025-01-11 18:07:11 +0000",
       "grassy_beach": "2025-01-11 00:23:34 +0000",
       "rocky_meadow": "2025-01-10 22:23:29 +0000",
       "ochard": "2025-01-10 23:30:22 +0000",
+      "highland_fields": "2025-01-30 22:00:37 +0000",
       "maple_forest": "2025-01-11 00:09:32 +0000",
       "magnolia_highlands": "2025-01-10 23:03:08 +0000",
       "sparse_redwoods": "2025-01-11 18:35:24 +0000",
@@ -649,7 +656,8 @@
       "grassland": "2025-01-10 22:48:01 +0000",
       "prairie": "2025-01-11 18:03:28 +0000",
       "gravel_beach": "2025-01-11 00:10:15 +0000",
-      "redwoods": "2025-01-11 18:34:31 +0000"
+      "redwoods": "2025-01-11 18:34:31 +0000",
+      "hyacinth_deeps": "2025-01-30 22:12:47 +0000"
     },
     "done": false
   },
@@ -2898,11 +2906,19 @@
       "minecraft:cherry_grove": "2025-01-10 23:34:58 +0000",
       "minecraft:sunflower_plains": "2025-01-10 23:27:39 +0000",
       "minecraft:windswept_hills": "2025-01-10 23:25:54 +0000",
+      "minecraft:bamboo_jungle": "2025-01-30 20:59:30 +0000",
       "minecraft:savanna_plateau": "2025-01-11 18:23:55 +0000",
+      "minecraft:beach": "2025-01-30 21:13:50 +0000",
+      "minecraft:mangrove_swamp": "2025-01-30 20:59:02 +0000",
       "minecraft:sparse_jungle": "2025-01-11 18:11:16 +0000",
       "minecraft:river": "2025-01-10 22:26:55 +0000",
       "minecraft:lukewarm_ocean": "2025-01-11 20:49:31 +0000",
+      "minecraft:cold_ocean": "2025-01-30 22:03:56 +0000",
       "minecraft:forest": "2025-01-10 23:36:17 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-30 22:06:21 +0000",
+      "minecraft:frozen_ocean": "2025-01-30 22:13:03 +0000",
+      "minecraft:jungle": "2025-01-30 21:05:22 +0000",
+      "minecraft:ocean": "2025-01-30 22:03:34 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-12 22:49:58 +0000",
       "minecraft:flower_forest": "2025-01-10 23:30:39 +0000",
       "minecraft:meadow": "2025-01-10 23:35:13 +0000",
@@ -5468,7 +5484,9 @@
     "criteria": {
       "cooked_beef": "2025-01-12 22:51:18 +0000",
       "apple": "2025-01-10 23:32:08 +0000",
-      "bread": "2025-01-10 22:34:52 +0000"
+      "pumpkin_pie": "2025-01-30 21:48:10 +0000",
+      "bread": "2025-01-10 22:34:52 +0000",
+      "golden_apple": "2025-01-30 21:47:04 +0000"
     },
     "done": false
   },
@@ -5869,9 +5887,12 @@
       "minecraft:skeleton": "2025-01-10 23:38:00 +0000",
       "minecraft:spider": "2025-01-10 23:39:03 +0000",
       "minecraft:slime": "2025-01-11 18:46:57 +0000",
+      "minecraft:phantom": "2025-01-30 22:38:36 +0000",
+      "minecraft:husk": "2025-01-30 21:46:53 +0000",
       "minecraft:cave_spider": "2025-01-12 20:57:35 +0000",
       "minecraft:silverfish": "2025-01-10 22:50:23 +0000",
       "minecraft:zombie": "2025-01-10 22:38:20 +0000",
+      "minecraft:drowned": "2025-01-30 22:43:45 +0000",
       "minecraft:zombie_villager": "2025-01-10 23:40:33 +0000"
     },
     "done": false
@@ -17673,6 +17694,234 @@
   "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
     "criteria": {
       "has_sapphire_gem": "2025-01-30 20:54:43 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_catfish": {
+    "criteria": {
+      "has_catfish": "2025-01-30 20:54:57 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-01-30 20:55:14 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-01-30 22:51:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_electronic_circuit": "2025-01-30 22:07:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/basic_display": {
+    "criteria": {
+      "has_electronic_circuit": "2025-01-30 22:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-30 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2025-01-30 22:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-01-30 21:15:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-30 21:45:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-01-30 21:49:48 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-01-30 22:43:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2025-01-30 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-01-30 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-30 21:53:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-30 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-01-30 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-01-30 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-01-30 22:44:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
+    "criteria": {
+      "has_electronic_circuit": "2025-01-30 22:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-01-30 21:49:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-01-30 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-30 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-01-30 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-01-30 22:38:36 +0000"
+    },
+    "done": false
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-01-30 22:44:20 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-01-30 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/diorite_lantern": {
+    "criteria": {
+      "has_diorite_slab": "2025-01-30 21:17:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/advanced_circuit": {
+    "criteria": {
+      "has_electronic_circuit": "2025-01-30 22:07:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-01-30 21:48:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_electronic_circuit": "2025-01-30 22:07:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-01-30 22:13:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-30 22:57:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-30 22:56:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-01-30 22:44:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/frequency_transmitter": {
+    "criteria": {
+      "has_circuit": "2025-01-30 22:07:17 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-01-30 22:59:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_core": {
+    "criteria": {
+      "has_electronic_circuit": "2025-01-30 22:07:17 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-01-30 21:48:24 +0000"
     },
     "done": true
   },

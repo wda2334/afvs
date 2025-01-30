@@ -601,20 +601,26 @@
     "criteria": {
       "mauve_hills": "2025-01-11 18:06:16 +0000",
       "shrubland": "2025-01-10 23:35:29 +0000",
+      "muddy_river": "2025-01-30 22:12:20 +0000",
       "marsh": "2025-01-11 18:37:02 +0000",
+      "willow_forest": "2025-01-30 21:59:59 +0000",
       "barley_fields": "2025-01-11 18:07:39 +0000",
       "redstone_caves": "2025-01-12 21:46:15 +0000",
       "grassy_beach": "2025-01-12 17:30:27 +0000",
       "rocky_meadow": "2025-01-10 21:52:39 +0000",
+      "maple_forest": "2025-01-30 22:09:46 +0000",
       "magnolia_highlands": "2025-01-11 18:04:57 +0000",
       "sparse_redwoods": "2025-01-11 18:34:45 +0000",
       "deciduous_forest": "2025-01-10 21:51:47 +0000",
       "blackstone_basin": "2025-01-12 22:41:12 +0000",
+      "chalk_cliffs": "2025-01-30 21:46:05 +0000",
       "infernal_holt": "2025-01-12 22:42:36 +0000",
       "bamboo_forest": "2025-01-10 21:49:35 +0000",
       "grassland": "2025-01-10 21:51:26 +0000",
       "prairie": "2025-01-11 18:07:13 +0000",
+      "gravel_beach": "2025-01-30 22:11:37 +0000",
       "redwoods": "2025-01-11 18:34:22 +0000",
+      "hyacinth_deeps": "2025-01-30 22:12:35 +0000",
       "bioshroom_caves": "2025-01-11 19:30:32 +0000"
     },
     "done": false
@@ -623,17 +629,23 @@
     "criteria": {
       "mauve_hills": "2025-01-11 18:06:16 +0000",
       "shrubland": "2025-01-10 23:35:29 +0000",
+      "muddy_river": "2025-01-30 22:12:20 +0000",
       "marsh": "2025-01-11 18:37:02 +0000",
+      "willow_forest": "2025-01-30 21:59:59 +0000",
       "barley_fields": "2025-01-11 18:07:39 +0000",
       "grassy_beach": "2025-01-12 17:30:27 +0000",
       "rocky_meadow": "2025-01-10 21:52:39 +0000",
+      "maple_forest": "2025-01-30 22:09:46 +0000",
       "magnolia_highlands": "2025-01-11 18:04:57 +0000",
       "sparse_redwoods": "2025-01-11 18:34:45 +0000",
       "deciduous_forest": "2025-01-10 21:51:47 +0000",
+      "chalk_cliffs": "2025-01-30 21:46:05 +0000",
       "bamboo_forest": "2025-01-10 21:49:35 +0000",
       "grassland": "2025-01-10 21:51:26 +0000",
       "prairie": "2025-01-11 18:07:13 +0000",
-      "redwoods": "2025-01-11 18:34:22 +0000"
+      "gravel_beach": "2025-01-30 22:11:37 +0000",
+      "redwoods": "2025-01-11 18:34:22 +0000",
+      "hyacinth_deeps": "2025-01-30 22:12:35 +0000"
     },
     "done": false
   },
@@ -2998,6 +3010,7 @@
       "minecraft:phantom": "2025-01-11 22:43:32 +0000",
       "minecraft:zombified_piglin": "2025-01-12 23:04:26 +0000",
       "minecraft:wither_skeleton": "2025-01-12 22:02:41 +0000",
+      "minecraft:husk": "2025-01-30 21:47:58 +0000",
       "minecraft:cave_spider": "2025-01-11 19:34:19 +0000",
       "minecraft:piglin": "2025-01-12 22:41:25 +0000",
       "minecraft:enderman": "2025-01-11 18:30:30 +0000",
@@ -3033,10 +3046,13 @@
       "apple": "2025-01-10 21:59:20 +0000",
       "potato": "2025-01-10 22:48:13 +0000",
       "rabbit": "2025-01-12 21:41:26 +0000",
+      "pumpkin_pie": "2025-01-30 21:57:30 +0000",
       "bread": "2025-01-10 22:46:12 +0000",
       "golden_apple": "2025-01-11 22:42:39 +0000",
       "rotten_flesh": "2025-01-11 23:09:17 +0000",
       "glow_berries": "2025-01-11 22:44:17 +0000",
+      "dried_kelp": "2025-01-30 21:23:18 +0000",
+      "salmon": "2025-01-30 21:48:42 +0000",
       "golden_carrot": "2025-01-10 22:22:34 +0000",
       "carrot": "2025-01-10 22:17:02 +0000"
     },
@@ -7567,11 +7583,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-01-30 20:59:53 +0000",
       "minecraft:savanna_plateau": "2025-01-11 18:24:19 +0000",
+      "minecraft:beach": "2025-01-30 21:14:04 +0000",
+      "minecraft:mangrove_swamp": "2025-01-30 20:58:59 +0000",
       "minecraft:sparse_jungle": "2025-01-11 18:10:57 +0000",
       "minecraft:river": "2025-01-10 22:40:09 +0000",
       "minecraft:lukewarm_ocean": "2025-01-12 17:29:11 +0000",
+      "minecraft:cold_ocean": "2025-01-30 22:03:55 +0000",
       "minecraft:forest": "2025-01-11 18:23:47 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-30 22:06:18 +0000",
+      "minecraft:frozen_ocean": "2025-01-30 22:13:05 +0000",
+      "minecraft:jungle": "2025-01-30 21:05:19 +0000",
+      "minecraft:ocean": "2025-01-30 22:03:33 +0000",
       "minecraft:savanna": "2025-01-11 18:09:28 +0000",
       "minecraft:plains": "2025-01-11 18:10:39 +0000"
     },
@@ -18265,6 +18289,463 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
     "criteria": {
       "has_diamond_helmet": "2025-01-13 21:59:01 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_catfish": {
+    "criteria": {
+      "has_catfish": "2025-01-30 20:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/dragons_blood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/juniper_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/elder_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/palm/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-30 21:00:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
+    "criteria": {
+      "has_chalk": "2025-01-30 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2025-01-30 21:17:55 +0000",
+      "minecraft:red": "2025-01-30 21:18:11 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk": {
+    "criteria": {
+      "has_chalk": "2025-01-30 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-01-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-30 21:14:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-30 22:26:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs": {
+    "criteria": {
+      "has_chalk": "2025-01-30 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-01-30 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-01-30 22:43:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-01-30 21:14:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-30 21:45:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-01-30 22:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-30 21:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-30 21:14:27 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-01-30 22:43:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-30 21:14:22 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartysand_bucket_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-30 21:14:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-01-30 21:14:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-01-30 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-30 21:14:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-01-30 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-30 21:14:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-01-30 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-30 22:26:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
+    "criteria": {
+      "has_chalk": "2025-01-30 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2025-01-30 21:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-30 21:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-30 21:14:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
+    "criteria": {
+      "has_tag_c_redstone_ores": "2025-01-30 22:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-30 21:14:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2025-01-30 21:20:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-01-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-01-30 21:15:29 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-01-30 21:14:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-30 21:14:17 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-01-30 22:43:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-01-30 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-01-30 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab": {
+    "criteria": {
+      "has_chalk": "2025-01-30 21:46:08 +0000"
     },
     "done": true
   },
