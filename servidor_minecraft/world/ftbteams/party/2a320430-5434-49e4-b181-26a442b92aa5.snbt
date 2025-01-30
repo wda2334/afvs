@@ -1,0 +1,28 @@
+{
+	id: "2a320430-5434-49e4-b181-26a442b92aa5"
+	type: "party"
+	owner: "dd0c9ee7-09db-3026-99f3-011946b01c57"
+	ranks: {
+		5e9f35a5-82d0-3729-9e06-c09d59ced6d0: "member"
+		df766ae6-3208-3bf3-8926-4d9ae4061ea9: "member"
+		dd0c9ee7-09db-3026-99f3-011946b01c57: "owner"
+		0353a03d-9344-32df-a99e-c414295afec8: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Papufiesta"
+		"ftbteams:description": "si"
+		"ftbteams:color": "#FFEE59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736633015702L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pancito_KawaiiG\"}]}" }
+		{ from: "dd0c9ee7-09db-3026-99f3-011946b01c57", date: 1736633032845L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"nino_alf\"}]}" }
+		{ from: "dd0c9ee7-09db-3026-99f3-011946b01c57", date: 1736633032845L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"kenro06\"}]}" }
+		{ from: "dd0c9ee7-09db-3026-99f3-011946b01c57", date: 1736633032845L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"galaxy65m\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736633037517L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"galaxy65m\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736633038205L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"kenro06\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736633064425L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"nino_alf\"}]}" }
+	]
+	extra: { }
+}
